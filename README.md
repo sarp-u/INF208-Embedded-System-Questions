@@ -1,2 +1,2 @@
 # INF208-Embedded-System-Questions
-Turkish German University Embedded Systems midterm and final exam questions. The class is about raspberrypie and embedded systems. I uploaded questions incase if i ever wanted to learn or study more about rasberrypie 
+Vize ve final sınavı soruları. Rasberrypie ve gömülü sistemler üzerine olan soruların cevapları. Eğer olur da bir gün eğer gömülü sistemler ve rasberrypie üzerine kendi kendime çalışmayı düşünürsem buradaki kodlardan yararlanırım.
